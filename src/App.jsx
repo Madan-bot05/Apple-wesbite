@@ -10,7 +10,7 @@ const App = () => {
     <Navbar/>
     <Hero/>
     <Highlights/>
-    <Model/>
+    <Model className="mt-5"/>
   </main>
   )
 };
