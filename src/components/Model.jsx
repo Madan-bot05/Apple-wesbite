@@ -71,7 +71,7 @@ const Model = () => {
               {/* <View.Port/> */}
             </Canvas>
           </div>
-          <div className="mx-auto w-full mb-0">
+          {/* <div className="mx-auto w-full mb-0">
             <p className="text-sm font-light text-center mb-5">{model.title}</p>
             <div className="flex-center mb-1">
               <ul className="color-container">
@@ -102,7 +102,7 @@ const Model = () => {
                 ))}
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
