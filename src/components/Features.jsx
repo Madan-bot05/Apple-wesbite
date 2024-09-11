@@ -64,7 +64,7 @@ const Features = () => {
                 </div>
               </div>
               <div className="feature-text-container">
-                <div className="flex-1 flex-center">
+                <div className="flex-1 flex-center"><p>hihi</p>
                   <p className="feature-text g_text">
                     Iphone 15 Pro is{" "}
                     <span className="text-white">
