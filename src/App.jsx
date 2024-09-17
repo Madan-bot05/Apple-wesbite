@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import "./app.scss"
 import Features from "./components/Features";
 import HowItWorks from "./components/HowItWorks";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
     <Model/>
     <Features/>
     <HowItWorks/>
+    <Footer/>
   </main>
   )
 };
